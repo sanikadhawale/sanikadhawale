@@ -5,7 +5,7 @@ A Software Developer passionate about building end-to-end software applications 
 
 Thanks for visiting by GitHub profile! Hope you like my work!
 
-* ✉️  You can contact me at [sanikadhawale1204@gmail.com](mailto:sanikadhawale1204@gmail.com)
+*  You can contact me at [sanikadhawale1204@gmail.com](mailto:sanikadhawale1204@gmail.com)
 
 ### Skills
 
