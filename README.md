@@ -1,6 +1,5 @@
 
-Hi, this is Sanika!   
-![](https://komarev.com/ghpvc/?username=sanikadhawale)
+Hi, this is Sanika!   ![](https://komarev.com/ghpvc/?username=sanikadhawale)
 
 A Software Developer passionate about building end-to-end software applications by applying creative and critical thinking. I enjoy exploring and learning new technologies and try to keep up with dynamic trends of the tech world.
 
