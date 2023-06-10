@@ -1,6 +1,6 @@
 ### Hi, this is Sanika!
 
-A Software Developer passionate about building innovative software solutions by applying creative and critical thinking to make peaple's lives easy.
+A Software Developer passionate about building innovative software solutions by applying creative and critical thinking to make people's lives easy.
  
 Thanks for visiting by GitHub profile! Hope you like my work! 
 
