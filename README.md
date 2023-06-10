@@ -16,7 +16,7 @@ Thanks for visiting by GitHub profile! Hope you like my work!
 
 • Cloud technologies: AWS (EC2, S3, IAM, Lambda, DynamoDB, CloudWatch), Azure
 
-• Tools: Eclipse, VS Code, Oracle SQL Developer, Docker, Kubernetes, Azure DevOps, Postman, Maven, Tableau, Git, Jira
+• Tools: Eclipse, VS Code, Oracle SQL Developer, Docker, Kubernetes, Azure DevOps, Postman, Maven, Tableau, Git, Jira  
 
 <!--
 **sanikadhawale/sanikadhawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
