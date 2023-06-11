@@ -25,7 +25,7 @@ Thanks for visiting by GitHub profile! Hope you like my work!
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,spring,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,spring,postman,vscode,eclipse,maven" />
   </a>
 
 </p>
